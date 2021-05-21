@@ -4,7 +4,7 @@ public class Reverse {
 	public static void main(String[] args) {
 		int number = 1234;
 		int reverse = 0;
-		String s = "";
+		String s = " ";
 		while(number != 0)
 		{
 			int pick_last = number % 10;
